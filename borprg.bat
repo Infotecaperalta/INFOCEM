@@ -1,0 +1,11 @@
+DEL *.sct 
+DEL *.scx 
+DEL *.frt 
+DEL *.frx 
+DEL *.mnt
+DEL *.mnx 
+DEL *.mpr 
+DEL *.mpx 
+DEL *.prg 
+DEL *.pjt 
+DEL *.pjx 
