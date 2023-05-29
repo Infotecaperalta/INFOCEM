@@ -1,0 +1,7 @@
+cambios en bases fçde datos
+
+F_ARTI
+
+F_ARTI.NOMRUBRO C 50
+
+

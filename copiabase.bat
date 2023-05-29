@@ -1,0 +1,2 @@
+copy c:\COMERCIAL\MEN_CLI.FLL C:\WINDOWS
+
